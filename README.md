@@ -1,3 +1,3 @@
 # global
-global.js
-js挟持清楚攻击
+global.js  
+js挟持清除工具
